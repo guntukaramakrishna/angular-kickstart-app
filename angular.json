@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "angular-kickstart-app"
+  "defaultProject": "angular-kickstart-app",
+  "cli": {
+    "analytics": "6b00eeee-01dc-47cd-a13d-e05d961f0bd5"
+  }
 }
